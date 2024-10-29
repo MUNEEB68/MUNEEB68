@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif))](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm MUNEEB HAROON</h1>
 <h3 align="center">I am an Electrical Engineering sophomore, passionate about Embedded Systems, Machine Learning, Computer Vision, and Data Science. Proficient in C, C++, Python, and SQL, along with a solid understanding of electronic systems, I aim to develop and leverage my skills in both hardware and software to contribute to the development of high-quality, AI and data-driven solutions.</h3>
-img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9ZxAccaSrDiXMz9g3tovqkww-G4O7YHQ3w&s](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb68&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb68" /> </p>
 
