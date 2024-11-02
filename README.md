@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm MUNEEB HAROON</h1>
-<h3 align="center">I am an Electrical Engineering sophomore, passionate about Embedded Systems, Machine Learning, Computer Vision, and Data Science. Proficient in C, C++, Python, and SQL, along with a solid understanding of electronic systems, I aim to develop and leverage my skills in both hardware and software to contribute to the development of high-quality, AI and data-driven solutions.</h3>
+<h3 align="center">I am an Electrical Engineering sophomore, passionate about Embedded Systems, Machine Learning, Computer Vision, and Data Science.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb68&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb68" /> </p>
