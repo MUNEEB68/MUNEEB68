@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SFML GAME**
 
-- 🌱 I’m currently learning **Deep learning,Digital system design and backend dev.**
+- 🌱 I’m currently learning **Deep learning and Web Development**
 
 - 👯 I’m looking to collaborate on **programming and electronic projects**
 
