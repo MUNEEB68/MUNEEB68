@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneeb68" alt="muneeb68" /></a> </p>
 
-- 🔭 I’m currently working on **SFML GAME**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Deep learning and Web Development**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **programming and electronic projects**
 
