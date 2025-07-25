@@ -38,12 +38,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneeb-haroon&show_icons=true&theme=radical&hide_title=true" alt="Muneeb's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muneebharoon&show_icons=true&theme=radical" alt="Muneeb's GitHub stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb-haroon&theme=radical" alt="Muneeb's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebharoon&theme=radical" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-haroon&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebharoon&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
+
 
 ---
 
