@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **muneebharoon8@gmail.com**
 
-- ⚡ Fun fact: I can go from football striker to code debugger real quick ⚽💻
+- ⚡ Fun fact:  I trust the process — especially when it's gradient descent 📉🧠 
 
 ---
 
