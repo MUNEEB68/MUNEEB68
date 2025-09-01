@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Mathematics, Deep Learning, and Embedded Systems**
 
-- 📫 How to reach me: **muneebharoon8@gmail.com**
+- 📫 How to reach me: **muneebharoon261@gmail.com**
 
 - ⚡ Fun fact:  I trust the process — especially when it's gradient descent 📉🧠 
 
