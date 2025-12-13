@@ -2,16 +2,7 @@
 
 🎓 **Electrical Engineering Undergraduate**  
 
----
 
-## 🚀 About Me  
-
-- 🔭 Currently building **AI-powered tools** for technical interviews and productivity  
-- 🌱 Learning **Deep Learning, Generative AI & Computer Architecture**  
-- 👯 Open to collaborating on **AI + Hardware–integrated projects**  
-  
-
----
 
 ## 🧠 Technical Interests  
 
