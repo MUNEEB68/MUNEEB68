@@ -2,8 +2,7 @@
 
 🎓 **Electrical Engineering Undergraduate**  
 
-
-
+---
 ## 🧠 Technical Interests  
 
 - Machine Learning & Deep Learning  
