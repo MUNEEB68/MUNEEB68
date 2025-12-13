@@ -1,9 +1,30 @@
-# Hi 👋, I'm Muneeb Haroon
+# 👋 Hi, I'm Muneeb Haroon  
 
-An Electrical Engineering undergrad with strong interests in **Machine Learning, Signal Processing, and Computer Architecture** 🚀
+🎓 **Electrical Engineering Undergraduate**  
 
-- 🔭 I’m currently building **AI-powered tools for technical interviews and productivity**
-- 🌱 I’m currently learning **Deep Learning, Generative AI, and Computer Architecture**
-- 👯 I’m looking to collaborate on **AI + Hardware-integrated Projects**
-- 💬 Ask me about **Mathematics, Machine Learning, Signal Processing, and Embedded Systems**
-- 📫 How to reach me: **muneebharoon261@gmail.com**
+---
+
+## 🚀 About Me  
+
+- 🔭 Currently building **AI-powered tools** for technical interviews and productivity  
+- 🌱 Learning **Deep Learning, Generative AI & Computer Architecture**  
+- 👯 Open to collaborating on **AI + Hardware–integrated projects**  
+- 💬 Ask me about **Mathematics, Machine Learning, Signal Processing & Embedded Systems**  
+
+---
+
+## 🧠 Technical Interests  
+
+- Machine Learning & Deep Learning  
+- Computer Architecture and Digital Design
+- Communication Systems  
+
+---
+
+## 📫 Contact  
+
+📧 **Email:** muneebharoon261@gmail.com  
+
+---
+
+⭐ *Feel free to check out my pinned repositories below!*  
