@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+at+the+intersection+of+hardware+%26+intelligence.;Wireless+Comms+%7C+Machine+Learning+%7C+Computer+Architecture.;Signals+in%2C+insights+out.;RTL+design+by+day%2C+deep+learning+by+night.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+at+the+intersection+of+hardware+%26+intelligence.;Signals+in%2C+insights+out.;RTL+design+by+day%2C+deep+learning+by+night.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=MUNEEB68&label=Profile+views&color=00D4FF&style=flat-square" alt="profile views" />
 
@@ -38,7 +38,9 @@
   <a href="https://www.labcenter.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Proteus_Design_Suite_Atom_Logo.png/200px-Proteus_Design_Suite_Atom_Logo.png" width="40" height="40" alt="Proteus"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>&nbsp;
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>&nbsp;
+  <a href="https://verilog.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Verilog-Logo.svg" width="40" height="40" alt="Verilog"/></a>&nbsp;
+  <a href="https://www.accellera.org/downloads/standards/systemverilog"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SystemVerilog_logo.svg" width="40" height="40" alt="SystemVerilog"/></a>
 </p>
 
 ---
@@ -57,13 +59,3 @@
 ---
 
 <div align="center">
-
-```
-// the best way to predict the future is to engineer it.
-```
-
-⭐ *Check out the pinned repos below — that's where the real work lives.*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
