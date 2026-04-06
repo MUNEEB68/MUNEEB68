@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Muneeb Haroon</h1>
+<h1 align="center">Hi 👋, I'm Muneeb Haroon</h1>
 <h3 align="center">Electrical Engineering Undergraduate · NUST SEECS</h3>
 
 
