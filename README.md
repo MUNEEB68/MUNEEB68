@@ -46,15 +46,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUNEEB68&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00D4FF&text_color=c9d1d9" alt="Top Languages"/>
 
----
 
-<div align="center">
 
-```
-// the best way to predict the future is to engineer it.
-```
-
-⭐ *Check out the pinned repos below — that's where the real work lives.*
+⭐ *Check out the pinned repos below*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
