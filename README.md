@@ -6,7 +6,7 @@
 - 👀 I'm interested in **Wireless Communication, Machine Learning and Computer Architecture**
 - 🌱 I'm currently learning **Reinforcement Learning, Linux and CUDA**
 - 💬 Ask me about **Wireless Comms, ML and Computer Architecture**
-- 📫 Reach me at **mharoon.bee23seecs@seecs.edu.pk**
+- 📫 Reach me at **muneebharoon261@gmail.com**
 - ⚡ Fun fact: *I trust the process like gradient descent*
 
 ---
