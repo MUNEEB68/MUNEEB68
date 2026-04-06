@@ -1,4 +1,4 @@
-#keep shit same just reomve the transition thingy in the start like ML wireless transitionb blue one#<h1 align="center">Hi 👋, I'm Muneeb Haroon</h1>
+#<h1 align="center">Hi 👋, I'm Muneeb Haroon</h1>
 <h3 align="center">Electrical Engineering Undergraduate · NUST SEECS</h3>
 
 
