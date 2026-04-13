@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **Reinforcement Learning, Linux and CUDA**
 - 💬 Ask me about **Wireless Comms, ML and Computer Architecture**
 - 📫 Reach me at **muneebharoon261@gmail.com**
-- ⚡ Fun fact: *I trust the process like gradient descent*
+
 
 ---
 
