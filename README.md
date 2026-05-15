@@ -3,7 +3,7 @@
 
 - 👀 I'm currently interested in the **intersection of AI and Wireless Communication.**
 - 🌱 I'm currently learning **Reinforcement Learning, Linux and CUDA**
-- 💬 Ask me about **Wireless Comms, ML aomnd Computer Architecture**
+- 💬 Ask me about **Wireless Comms, ML and Computer Architecture**
 - 📫 Reach me at **muneebharoon261@gmail.com**
 
 
