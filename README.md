@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muneeb Haroon</h1>
 <h3 align="center">Electrical Engineering Undergraduate · NUST SEECS</h3>
 
-- 👀 I'm interested in **Wireless Communication, Machine Learning and Computer Architecture**
+- 👀 I'm currently interested in the **intersection of AI and Wireless Communication.**
 - 🌱 I'm currently learning **Reinforcement Learning, Linux and CUDA**
-- 💬 Ask me about **Wireless Comms, ML and Computer Architecture**
+- 💬 Ask me about **Wireless Comms, ML aomnd Computer Architecture**
 - 📫 Reach me at **muneebharoon261@gmail.com**
 
 
